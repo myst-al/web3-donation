@@ -1,0 +1,9 @@
+{
+  "network": "liskSepolia",
+  "chainId": "4202",
+  "contractAddress": "0xd22D9f2BB958f8706bE1731f5410396e67EFfED0",
+  "transactionHash": "0x2534ca0c4a17b951080d96962fe08a2a4d46faefa6af42a5edc006509b61ffdf",
+  "deployer": "0xfD8ee9b819FB95DA85d874202ffa7EA91332bE15",
+  "timestamp": "2025-08-01T15:20:04.530Z",
+  "gasUsed": "2189433"
+}
